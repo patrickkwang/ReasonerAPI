@@ -1,8 +1,6 @@
-# NCATS-ReasonerStdAPI
+# Translator Reasoner API
 
-[![NCATS-ReasonerStdAPI build status on Travis CI](https://travis-ci.com/NCATS-Tangerine/NCATS-ReasonerStdAPI.svg?branch=master)](https://travis-ci.com/NCATS-Tangerine/NCATS-ReasonerStdAPI)
-
-NCATS Biomedical Translator Reasoners Standard API
+[![ReasonerAPI build status on Travis CI](https://travis-ci.org/NCATSTranslator/ReasonerAPI.svg?branch=master)](https://travis-ci.org/NCATSTranslator/ReasonerAPI)
 
 ## Recent Changes
 - 2019-03-05: all older versions were removed from the repo (still available in history), and 0.9.0 tagged as a release
