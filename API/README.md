@@ -1,8 +1,6 @@
-# NCATS Translator Reasoners API
+# Translator Reasoner API
 
-[![NCATS-ReasonerStdAPI build status on Travis CI](https://travis-ci.com/NCATS-Tangerine/NCATS-ReasonerStdAPI.svg?branch=master)](https://travis-ci.com/NCATS-Tangerine/NCATS-ReasonerStdAPI)
-
-This API specification represents a version 0.9.1 draft of the NCATS Translator Reasoners API.
+This API specification represents a version 0.9.1 draft of the Translator Reasoner API.
 It is intended that the various reasoner tools will support this API so that remote calls to
 any of the reasoners (and other related Translator resources) may be made using the same API
 with the same result format, which will
